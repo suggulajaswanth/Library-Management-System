@@ -1,4 +1,4 @@
-# Library-Management-System
+# Library-Management-System(JAVA PROJECT)
 With Fee dues if book is not returned within specified time 
 ---------------------------------------------------------------
 1.FOR CODE OPEN "library-management-system.txt" file.
